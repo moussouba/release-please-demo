@@ -1,0 +1,15 @@
+{
+  "branches": [
+    {
+      "branch": "staging",
+      "handleGHRelease": true,
+      "prerelease": true,
+      "prerelease-type": "beta"
+    },
+    {
+      "branch": "main",
+      "handleGHRelease": true
+    }
+  ]
+}
+
