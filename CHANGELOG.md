@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0-beta.0](https://github.com/moussouba/release-please-demo/compare/v1.0.0-beta.0...v1.1.0-beta.0) (2025-10-30)
+
+
+### Features
+
+* add new feature logout ([c0fd291](https://github.com/moussouba/release-please-demo/commit/c0fd2913da1e1b865fd06914b3d485a96122c0d1))
+
 ## [1.1.0](https://github.com/moussouba/release-please-demo/compare/v1.0.0...v1.1.0) (2025-10-30)
 
 
