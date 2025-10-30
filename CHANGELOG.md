@@ -1,0 +1,17 @@
+# Changelog
+
+## 1.0.0 (2025-10-30)
+
+
+### Features
+
+* add auth page ([2279978](https://github.com/moussouba/release-please-demo/commit/227997870183b54bf43b845d6c1dd53ce0a9adde))
+* add auth page ([b5bf20f](https://github.com/moussouba/release-please-demo/commit/b5bf20fd3f7313bbdc588fdef96e6dfa2cdf93ce))
+* add test file for release ([eeacac2](https://github.com/moussouba/release-please-demo/commit/eeacac207a617a5bfd1593113294b8161fda1735))
+* Update release-please.yml ([a03ace3](https://github.com/moussouba/release-please-demo/commit/a03ace3f3aebf4bfd5fe84ac04d6aa3b496e7121))
+
+
+### Bug Fixes
+
+* change login page title ([376f82b](https://github.com/moussouba/release-please-demo/commit/376f82b8c3150dc711f42f9cfbdea593258ee173))
+* Update release-please.yml ([501312f](https://github.com/moussouba/release-please-demo/commit/501312f30434caf4f0cbe0afad409af9f8e022a4))
