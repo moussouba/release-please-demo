@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/moussouba/release-please-demo/compare/v1.0.0...v1.1.0) (2025-10-30)
+
+
+### Features
+
+* add tuto release test ([3c588fb](https://github.com/moussouba/release-please-demo/commit/3c588fbcd3c273c6ea3025ad990d2ec53a83599d))
+
 ## 1.0.0 (2025-10-30)
 
 
