@@ -10,6 +10,13 @@
       "branch": "main",
       "handleGHRelease": true
     }
-  ]
+  ],
+  "packages": {
+    ".": {
+      "package-name": "demo-app",
+      "release-type": "node",
+      "extra-files": ["package.json"]
+    }
+  }
 }
 
